@@ -357,6 +357,14 @@ border-top: 10px solid #ffd200;
   margin-top: 20px;
 }
 
+.socials.space-between{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 25px;
+  margin-top: 20px;
+}
+
 .socials a {
   display: flex;
   align-items: center;
@@ -525,3 +533,4 @@ border-top: 10px solid #ffd200;
   }
  
 }
+
